@@ -2,6 +2,9 @@
 
 A sleek weather dashboard built with Go backend and React + TypeScript frontend.
 
+![Dark Mode](./img/dark.png)
+![Light Mode](./img/light.png)
+
 ## Features
 
 - Dark mode toggle
